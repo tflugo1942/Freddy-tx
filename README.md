@@ -1,0 +1,2 @@
+# Freddy-tx
+Transifex Exercise
